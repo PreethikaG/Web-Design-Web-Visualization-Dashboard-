@@ -1,0 +1,36 @@
+body {
+    background: #f1f1f1;
+  }
+
+.latcolor {
+    color:mediumseagreen
+}
+
+.TFtable{
+    width:100%; 
+    border-collapse:collapse; 
+}
+/* .TFtable td{ 
+    padding:7px; border:#4e95f4 1px solid;
+} */
+/* provide some minimal visual accomodation for IE8 and below */
+/* .TFtable tr{
+    background: #b8d1f3;
+} */
+/*  Define the background color for all the ODD background rows  */
+.TFtable tr:nth-child(odd){ 
+    background: gainsboro;
+}
+/*  Define the background color for all the EVEN background rows  */
+.TFtable tr:nth-child(even){
+    background: whitesmoke;
+}
+
+.homebutton{
+    padding: 10px;
+    background-color: teal;
+}
+
+.custom-right{
+    text-align-last: right;
+}
