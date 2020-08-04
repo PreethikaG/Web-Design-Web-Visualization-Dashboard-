@@ -3,7 +3,10 @@ Data is more powerful when we share it with others! And so I decided to create a
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I also added a landing or home page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-# Website Design -
+# Website Design - 
+
+Link to the website is here: https://preethikag.github.io/Web-Design-Web-Visualization-Dashboard-/
+
 
 The website consists of 7 pages total, including:
 
